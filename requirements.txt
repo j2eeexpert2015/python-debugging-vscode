@@ -2,5 +2,6 @@ pandas
 requests
 ipykernel
 pytest==7.4.2  # For running pytest
-coverage
+pytest-cov # For running pytest coverage
+coverage # For running unittest coverage
 
