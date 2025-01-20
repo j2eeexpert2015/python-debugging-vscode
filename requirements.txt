@@ -1,3 +1,5 @@
 pandas
 requests
 ipykernel
+pytest==7.4.2  # For running pytest
+
